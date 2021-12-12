@@ -4,8 +4,8 @@ from Adafruit_IO import Client, Feed
 
 DHT_DATA_PIN = 4
 
-ADAFRUIT_IO_KEY = "aio_PKqO37GFSQP3VA3l2gzOXdOoSuo9"
-ADAFRUIT_IO_USERNAME = "glimp"
+ADAFRUIT_IO_KEY = "YOUR_IO_KEY"
+ADAFRUIT_IO_USERNAME = "YOUR_IO_USERNAME"
 
 aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY)
 temperature_feed = aio.feeds('temperature')
