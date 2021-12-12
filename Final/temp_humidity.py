@@ -2,7 +2,7 @@ import time
 import Adafruit_DHT
 from Adafruit_IO import Client, Feed
 
-DHT_DATA_PIN = 4
+DHT_DATA_PIN = 24
 
 ADAFRUIT_IO_KEY = "YOUR_IO_KEY"
 ADAFRUIT_IO_USERNAME = "YOUR_IO_USERNAME"
