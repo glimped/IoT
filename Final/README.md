@@ -23,7 +23,9 @@ First and foremost, set up the circuit for a DHT22 sensor on your Raspberry Pi
 Next run some standard updates
 
 `sudo apt-get update`
+
 `sudo apt-get upgrade`
+
 `sudo pip3 install --upgrade setuptools`
 
 
@@ -32,9 +34,9 @@ We will be using `python3` and `pip3` for the code, so maike sure you have the P
 
 Then install the library for the DHT22 sensor, as well as the Adafruit IO library
 
-`sudo pip3 install Adafruit_DHT
+`sudo pip3 install Adafruit_DHT`
 
-pip3 install adafruit-io`
+`pip3 install adafruit-io`
 
 
 Next create an account at [Adafruit IO](https://io.adafruit.com)
@@ -45,9 +47,9 @@ Then click back to the Dashboard page, and on the dashboard page click Create Da
 
 You can also create a folder to store Python file if you wish
 
-`mkdir GardEx
+`mkdir GardEx`
 
-cd GardEx`
+`cd GardEx`
 
 
 Inside the new folder clone the Python file
