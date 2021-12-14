@@ -22,11 +22,9 @@ First and foremost, set up the circuit for a DHT22 sensor on your Raspberry Pi
 
 Next run some standard updates
 
-`sudo apt-get update
-
-sudo apt-get upgrade
-
-sudo pip3 install --upgrade setuptools`
+`sudo apt-get update`
+`sudo apt-get upgrade`
+`sudo pip3 install --upgrade setuptools`
 
 
 We will be using `python3` and `pip3` for the code, so maike sure you have the Python3 packages installed
