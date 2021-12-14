@@ -106,7 +106,7 @@ Next download the Light_Sensor script and open it in the Arduino IDE. Once in th
 
 
 
-## Here is my final hardware configuration
+## Final Hardware Configuration
 
 On the left side is the Raspberry Pi Model 3B which is hooked up to the DHT22 sensor to record and publish Temperature & Humidity data to Adafruit IO. On the right is a variation of the Arduino Uno which is hooked up to the GA1A12S202 light sensor and outputs raw and Lux light values to the users Serial Monitor in the Arduino IDE.
 
