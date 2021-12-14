@@ -1,5 +1,8 @@
 These are the files for Ryan Lange's EE629 final project. 
 
+
+## Temperature & Humidity
+
 Materials:
 
 1x Raspberry Pi (I used 3B Model)
